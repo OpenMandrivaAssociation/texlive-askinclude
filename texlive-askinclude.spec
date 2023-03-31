@@ -1,6 +1,6 @@
 Name:		texlive-askinclude
 Version:	54725
-Release:	1
+Release:	2
 Summary:	Interactive use of \includeonly
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/askinclude
