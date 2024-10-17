@@ -3,7 +3,7 @@ Version:	54725
 Release:	2
 Summary:	Interactive use of \includeonly
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/askinclude
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/askinclude
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/askinclude.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/askinclude.doc.r%{version}.tar.xz
